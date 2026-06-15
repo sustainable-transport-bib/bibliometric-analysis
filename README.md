@@ -39,7 +39,7 @@ The scripts are designed to generate analytical outputs such as:
 - figures,
 - and visualization-ready results.
 
-Because the scripts are largely self-contained, they can be executed independently according to the specific analytical level of interest. [web:135][web:139]
+Because the scripts are largely self-contained, they can be executed independently according to the specific analytical level of interest.
 
 ## Usage
 
